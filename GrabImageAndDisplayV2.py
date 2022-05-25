@@ -6,7 +6,7 @@ import numpy as np
 from ctypes import *
 
 # 指定SDK路径，根据自身情况修改
-SDK_path = "./SDK"
+SDK_path = "./Python/MvImport"
 sys.path.append(SDK_path)
 from MvCameraControl_class import *
 
